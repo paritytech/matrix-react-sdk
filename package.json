@@ -90,7 +90,7 @@
     "linkify-string": "4.0.0-beta.4",
     "linkifyjs": "4.0.0-beta.4",
     "lodash": "^4.17.20",
-    "maplibre-gl": "^1.15.2",
+    "maplibre-gl": "^6.4.1",
     "matrix-encrypt-attachment": "^1.0.3",
     "matrix-events-sdk": "^0.0.1-beta.7",
     "matrix-js-sdk": "19.4.0",
